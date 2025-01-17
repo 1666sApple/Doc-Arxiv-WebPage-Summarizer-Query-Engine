@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#db
+*.db
+
+#environment variables
+.env
+
+#Folders
+Doc-Arxiv-WebPage-Summarizer-Query-Engine/
